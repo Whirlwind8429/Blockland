@@ -1,3 +1,9 @@
+<version:1.1>
+        <ul>
+                <li>Custom playback range</li>
+                <li>Bug fixes</li>
+        </ul>
+</version>
 <version:1.0>
         <ul>
                 <li>Original Release</li>
