@@ -1,6 +1,16 @@
+<version:1.2>
+        <ul>
+                <li>Item Support</li>
+                <li>Keybinds</li>
+                <li>New “last” keyword to play/delete last filmed scene. Useful if you keep messing up a scene recording.</li>
+                <li>Small improvements</li>
+                <li>Bug Fixes</li>
+        </ul>
+</version>
 <version:1.1>
         <ul>
                 <li>Custom playback range</li>
+                <li>Small improvements</li>
                 <li>Bug fixes</li>
         </ul>
 </version>
