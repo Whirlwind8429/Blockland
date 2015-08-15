@@ -2,7 +2,7 @@
         <ul>
                 <li>Item Support</li>
                 <li>Keybinds</li>
-                <li>New “last” keyword to play/delete last filmed scene. Useful if you keep messing up a scene recording.</li>
+                <li>New ‘last’ keyword to play/delete last filmed scene. Useful if you keep messing up a scene recording.</li>
                 <li>Small improvements</li>
                 <li>Bug Fixes</li>
         </ul>
