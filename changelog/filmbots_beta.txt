@@ -1,3 +1,14 @@
+<version:1.5>
+        <ul>
+                <li>Bot no longer fires weapon while dead.</li>
+                <li>Slight walking support</li>
+                <li>Added keybind for HUD/timer toggle from Randy's filmmode.</li>
+                <li>Talking workaround. Press cancel brick (default: num0) or the keybind while filming to record talking animation.</li>
+                <li>Added shortened commands. /fbf /fbp /fbw /fbe /fbl /fbd /fbds</li>
+                <li>Small improvements</li>
+                <li>Bug fixes</li>
+        </ul>
+</version>
 <version:1.4>
         <ul>
                 <li>Added support for head turning.</li>

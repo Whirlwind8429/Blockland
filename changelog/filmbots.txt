@@ -1,3 +1,41 @@
+<version:1.5>
+        <ul>
+                <li>Bot no longer fires weapon while dead.</li>
+                <li>Slight walking support</li>
+                <li>Added keybind for HUD/timer toggle from Randy's filmmode.</li>
+                <li>Talking workaround. Press cancel brick (default: num0) or the keybind while filming to record talking animation.</li>
+                <li>Added shortened commands. /fbf /fbp /fbw /fbe /fbl /fbd /fbds</li>
+                <li>Small improvements</li>
+                <li>Bug fixes</li>
+        </ul>
+</version>
+<version:1.4>
+        <ul>
+                <li>Added support for head turning.</li>
+        </ul>
+</version>
+<version:1.3>
+        <ul>
+                <li>Added workaround for bot damage. Use /damagescene to toggle bot damage.</li>
+                <li>Love, Hate, Alarm, Confuse emotes</li>
+        </ul>
+</version>
+<version:1.2>
+        <ul>
+                <li>Item Support</li>
+                <li>Keybinds</li>
+                <li>New /last/ keyword to play/delete last filmed scene. Useful if you keep messing up a scene recording.</li>
+                <li>Small improvements</li>
+                <li>Bug Fixes</li>
+        </ul>
+</version>
+<version:1.1>
+        <ul>
+                <li>Custom playback range</li>
+                <li>Small improvements</li>
+                <li>Bug fixes</li>
+        </ul>
+</version>
 <version:1.0>
         <ul>
                 <li>Original Release</li>
