@@ -1,3 +1,8 @@
+<version:1.7>
+        <ul>
+                <li>Bots can leave vehicles.</li>
+        </ul>
+</version>
 <version:1.6>
         <ul>
                 <li>Added some vehicle support! Strafe steering only.</li>
